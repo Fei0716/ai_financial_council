@@ -1,4 +1,6 @@
 # 🤖💰 AI Financial Council
+<img width="964" height="759" alt="Screenshot 2026-01-05 140416" src="https://github.com/user-attachments/assets/0e7f69d6-40a0-449f-a72e-cbaf9b4c087e" />
+<img width="779" height="725" alt="Screenshot 2026-01-05 141148" src="https://github.com/user-attachments/assets/aad8d765-b6b9-4765-8edb-fc2776c40bfe" />
 
 **AI Financial Council** is a sophisticated multi-agent system designed to act as your personal financial advisory board. Built using **LangGraph** and **Google Gemini 2.0 Flash**, it combines personal finance auditing with professional stock market analysis.
 
@@ -61,7 +63,7 @@ The system employs a dual-memory approach to maintain context and personalizatio
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Fei0716/ai_financial_council.git
 cd ai_financial_council
 
 ```
